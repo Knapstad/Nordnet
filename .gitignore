@@ -117,6 +117,4 @@ pyvenv.cfg
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
-# config file
 config_.json
